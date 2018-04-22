@@ -4,7 +4,7 @@
 * Como baixar o Debian: https://goo.gl/7nKU5Q
 * O que o novato não deve fazer: https://goo.gl/5g2Lbr
 * Como gravar uma pendrive de boot: https://goo.gl/b8Abhw
-* Configuração do sources.list: https://goo.gl/VdUZL4
+* Configuração do sources.list: https://goo.gl/NmbBJq
 * Configurar um sources.list rapidamente: https://goo.gl/6HvJUq
 * Tutorial de uso do apt-get https://goo.gl/whV2ZJ
 * Gerenciamento de pacotes DPKG: https://goo.gl/gzMnce
