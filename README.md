@@ -23,6 +23,6 @@
 * Parâmetros para o instalador do debian: https://goo.gl/ufGy9W
 * Criando um pacote simples (deb): https://goo.gl/EykAng
 * Conhecendo o systemD: https://goo.gl/R5WuPa
-* Instalar o firefox, tarbal oficial: https://goo.gl/rjWLDH
+* Instalar o firefox, tarbal oficial: https://goo.gl/G4Ksga
 * Conhecendo o comando IP: https://goo.gl/u6X2oF
 * Como encontrar e remover kernels antigos: https://goo.gl/7MnvWo
