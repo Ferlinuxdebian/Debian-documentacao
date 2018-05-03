@@ -2,6 +2,7 @@
 
 * O que é o Debian, Vídeo iniciante: https://goo.gl/S5Le4m
 * Como baixar o Debian: https://goo.gl/7nKU5Q
+* Como obter Ajuda de forma eficiente: https://goo.gl/jQDAnq
 * O que o novato não deve fazer: https://goo.gl/5g2Lbr
 * Como gravar uma pendrive de boot: https://goo.gl/b8Abhw
 * Configuração do sources.list: https://goo.gl/NmbBJq
