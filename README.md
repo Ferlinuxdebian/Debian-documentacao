@@ -27,3 +27,4 @@
 * Instalar o firefox, tarbal oficial: https://goo.gl/G4Ksga
 * Conhecendo o comando IP: https://goo.gl/u6X2oF
 * Como encontrar e remover kernels antigos: https://goo.gl/7MnvWo
+* Determinar pacotes terceiros instalados e non-free: https://bit.ly/2IBF7q3
