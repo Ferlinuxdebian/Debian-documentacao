@@ -30,3 +30,4 @@
 * Como encontrar e remover kernels antigos: https://goo.gl/7MnvWo
 * Determinar pacotes terceiros instalados e non-free: https://bit.ly/2IBF7q3
 * Econtrar pacotes por fragmentos de arquivos: https://bit.ly/2ulsQ3Z
+* Restabelecer arquivos de configuração apagados acidentamente: http://docdro.id/50g0f7n
